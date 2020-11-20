@@ -1,4 +1,4 @@
-package accurics 
+package accurics
 
 {{.prefix}}cloudfrontNoSecureCiphers[retVal]{
     cloudfront = input.aws_cloudfront_distribution[_]

@@ -7,6 +7,7 @@
 [![codecov](https://codecov.io/gh/accurics/terrascan/branch/master/graph/badge.svg)](https://codecov.io/gh/accurics/terrascan)
 [![community](https://img.shields.io/discourse/status?server=https%3A%2F%2Fcommunity.accurics.com)](https://community.accurics.com)
 [![Documentation Status](https://readthedocs.com/projects/accurics-terrascan/badge/?version=latest)](https://docs.accurics.com/projects/accurics-terrascan/en/latest/?badge=latest)
+[![GitHub Super-Linter](https://github.com/accurics/terrascan/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/accurics/terrascan/actions?query=workflow%3A"Lint+Code+Base")
 
 Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 
